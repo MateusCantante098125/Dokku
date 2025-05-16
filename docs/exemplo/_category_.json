@@ -1,0 +1,9 @@
+{ 
+    "label": "Exemplo",
+    "position": 2,
+    "link": {
+        "type": "generated-index",
+        "description": "Exemplos de paginas com conteudo estático"
+        
+    }
+} 
